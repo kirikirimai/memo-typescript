@@ -1,0 +1,20 @@
+{
+  "name": "memo-ts",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000m\u0000e\u0000m\u0000o\u0000-\u0000t\u0000y\u0000p\u0000e\u0000s\u0000c\u0000r\u0000i\u0000p\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirikirimai/memo-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirikirimai/memo-typescript/issues"
+  },
+  "homepage": "https://github.com/kirikirimai/memo-typescript#readme"
+}
